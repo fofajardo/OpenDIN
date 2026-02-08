@@ -1,0 +1,25 @@
+StartChar: t
+Encoding: 116 116 37
+Width: 300
+VWidth: 0
+Flags: W
+VStem: 50 200
+LayerCount: 2
+Fore
+SplineSet
+50 500 m 25
+ 50 400 l 25
+ 100 400 l 25
+ 100 0 l 25
+ 200 0 l 25
+ 200 400 l 25
+ 250 400 l 25
+ 250 500 l 25
+ 200 500 l 25
+ 200 700 l 25
+ 100 600 l 25
+ 100 500 l 25
+ 50 500 l 25
+EndSplineSet
+Validated: 9
+EndChar

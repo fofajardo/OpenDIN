@@ -1,0 +1,21 @@
+StartChar: bracketright
+Encoding: 93 93 137
+Width: 400
+VWidth: 0
+Flags: W
+VStem: 18822 150
+LayerCount: 2
+Fore
+SplineSet
+18972 750 m 29
+ 18822 750 l 29
+ 18822 650 l 29
+ 18872 650 l 29
+ 18872 -50 l 29
+ 18822 -50 l 29
+ 18822 -150 l 29
+ 18972 -150 l 29
+ 18972 750 l 29
+EndSplineSet
+Validated: 9
+EndChar

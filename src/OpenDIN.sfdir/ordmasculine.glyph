@@ -1,0 +1,21 @@
+StartChar: ordmasculine
+Encoding: 186 186 173
+Width: 400
+VWidth: 0
+Flags: W
+HStem: -200 100<209.225 250>
+VStem: 100 100<-90.7753 -38.2613>
+LayerCount: 2
+Fore
+SplineSet
+200 -50 m 6
+ 200 0 l 5
+ 144.771 0 100 -44.7715 100 -100 c 4
+ 100 -155.229 144.771 -200 200 -200 c 6
+ 300 -200 l 5
+ 300 -100 l 5
+ 250 -100 l 6
+ 222.387 -100 200 -77.6143 200 -50 c 6
+EndSplineSet
+Validated: 9
+EndChar

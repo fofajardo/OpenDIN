@@ -1,0 +1,23 @@
+StartChar: J
+Encoding: 74 74 1
+Width: 300
+VWidth: 0
+Flags: W
+HStem: 0 100<50 140.775> 680 20G<150 250>
+VStem: 150 100<109.225 700>
+LayerCount: 2
+Fore
+SplineSet
+150 700 m 1024
+150 150 m 2
+ 150 700 l 1
+ 250 700 l 1
+ 250 150 l 2
+ 250 67.1572 182.843 0 100 0 c 2
+ 50 0 l 1
+ 50 100 l 1
+ 100 100 l 2
+ 127.614 100 150 122.386 150 150 c 2
+EndSplineSet
+Validated: 1
+EndChar

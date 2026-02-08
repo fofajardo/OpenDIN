@@ -1,0 +1,17 @@
+StartChar: slash
+Encoding: 47 47 170
+Width: 400
+VWidth: 0
+Flags: W
+HStem: 0 21G<55.7143 150> 680 20G<250 344.286>
+LayerCount: 2
+Fore
+SplineSet
+250 700 m 25
+ 50 0 l 25
+ 150 0 l 25
+ 350 700 l 25
+ 250 700 l 25
+EndSplineSet
+Validated: 9
+EndChar

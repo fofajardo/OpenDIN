@@ -1,0 +1,26 @@
+StartChar: W
+Encoding: 87 87 49
+Width: 800
+VWidth: 0
+Flags: W
+HStem: 680 20G<54.2857 150 650 745.714>
+LayerCount: 2
+Fore
+SplineSet
+650 700 m 17
+ 550 233.344 l 1
+ 450 700 l 1
+ 350 700 l 1
+ 250 233.344 l 1
+ 150 700 l 1
+ 50 700 l 1
+ 200 0 l 9
+ 300 0 l 25
+ 400 466.656 l 25
+ 500 0 l 25
+ 600 0 l 25
+ 750 700 l 25
+ 650 700 l 17
+EndSplineSet
+Validated: 9
+EndChar

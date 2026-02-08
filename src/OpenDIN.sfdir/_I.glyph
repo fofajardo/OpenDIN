@@ -1,0 +1,17 @@
+StartChar: I
+Encoding: 73 73 54
+Width: 200
+VWidth: 0
+Flags: W
+VStem: 50 100
+LayerCount: 2
+Fore
+SplineSet
+50 700 m 25
+ 50 0 l 25
+ 150 0 l 25
+ 150 700 l 25
+ 50 700 l 25
+EndSplineSet
+Validated: 9
+EndChar

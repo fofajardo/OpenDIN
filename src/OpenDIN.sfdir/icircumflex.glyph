@@ -1,0 +1,13 @@
+StartChar: icircumflex
+Encoding: 238 238 114
+Width: 200
+VWidth: 0
+Flags: W
+HStem: 0 21<50 150> 480 20<50 150> 600 100
+VStem: -50 300 50 100<0 500>
+LayerCount: 2
+Fore
+Refer: 100 94 N 1 0 0 1 -100 0 2
+Refer: 79 305 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

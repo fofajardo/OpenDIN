@@ -1,0 +1,12 @@
+StartChar: Agrave
+Encoding: 192 192 140
+Width: 500
+VWidth: 0
+Flags: W
+HStem: 0 21<49.8438 154.128 345.56 449.844> 200 100<214.125 285.562> 680 20<195.558 304.13> 750 100
+LayerCount: 2
+Fore
+Refer: 102 96 S 1 0 0 1 50 150 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Validated: 9
+EndChar

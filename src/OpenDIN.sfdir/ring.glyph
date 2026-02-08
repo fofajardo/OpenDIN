@@ -1,0 +1,18 @@
+StartChar: ring
+Encoding: 730 730 124
+Width: 400
+VWidth: 0
+Flags: W
+HStem: 550 200<138.262 261.738>
+VStem: 100 200<588.261 711.739>
+LayerCount: 2
+Fore
+SplineSet
+300 650 m 0
+ 300 594.771 255.228 550 200 550 c 0
+ 144.772 550 100 594.771 100 650 c 0
+ 100 705.229 144.772 750 200 750 c 0
+ 255.228 750 300 705.229 300 650 c 0
+EndSplineSet
+Validated: 1
+EndChar

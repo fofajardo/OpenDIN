@@ -1,0 +1,25 @@
+StartChar: paragraph
+Encoding: 182 182 89
+Width: 500
+VWidth: 0
+Flags: W
+HStem: -200 21G<150 250 350 450> 600 100<250 350>
+VStem: 50 200<338.262 600 600 600> 150 100<-200 300> 350 100<-200 600>
+LayerCount: 2
+Fore
+SplineSet
+150 700 m 2xd8
+ 450 700 l 1
+ 450 -200 l 1
+ 350 -200 l 1
+ 350 600 l 1
+ 250 600 l 1xe8
+ 250 -200 l 1
+ 150 -200 l 1
+ 150 300 l 1xd8
+ 94.7715 300 50 344.772 50 400 c 2
+ 50 600 l 2xe8
+ 50 655.229 94.7715 700 150 700 c 2xd8
+EndSplineSet
+Validated: 1
+EndChar

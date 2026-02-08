@@ -1,0 +1,24 @@
+StartChar: H
+Encoding: 72 72 55
+Width: 400
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 700 m 25
+ 50 0 l 25
+ 150 0 l 25
+ 150 300 l 25
+ 250 300 l 25
+ 250 0 l 25
+ 350 0 l 25
+ 350 700 l 25
+ 250 700 l 25
+ 250 400 l 25
+ 150 400 l 25
+ 150 700 l 25
+ 50 700 l 25
+EndSplineSet
+Validated: 9
+EndChar

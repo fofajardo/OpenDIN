@@ -1,0 +1,22 @@
+StartChar: brokenbar
+Encoding: 166 166 174
+Width: 200
+VWidth: 0
+Flags: W
+VStem: 50 100<-150 200 400 750>
+LayerCount: 2
+Fore
+SplineSet
+50 750 m 1
+ 150 750 l 1
+ 150 400 l 1
+ 50 400 l 1
+ 50 750 l 1
+50 200 m 1
+ 150 200 l 1
+ 150 -150 l 1
+ 50 -150 l 1
+ 50 200 l 1
+EndSplineSet
+Validated: 1
+EndChar
